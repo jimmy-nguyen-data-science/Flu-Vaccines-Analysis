@@ -54,7 +54,7 @@ flu vaccines. The motivation is to push for vaccinations, as our customer explai
 are “a key public health measure used to fight infectious diseases.”
 
 ## Data Visualizations
-![image](https://user-images.githubusercontent.com/74040889/131297526-9f30ec80-d5e8-4799-bc44-feaad400a578.png)
+[Survey Responses](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/Beh.%20Questions.png)
 
 ## Presentations and projects
 * [Project write-up](https://github.com/isabellaoakes/In-Vehicle-Marketing-Engagement-Optimization/blob/main/InVehicleCouponOptimization.pdf)
