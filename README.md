@@ -56,6 +56,11 @@ are “a key public health measure used to fight infectious diseases.”
 ## Data Visualizations
 ![Survey Responses](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/Beh.%20Questions.png)
 
+![Vaccine Concerns about Effects](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/H1N1%20Con%20vs%20Vac.png)
+
+![Vaccine Recommendations based on Gender](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/Vaccine%20Recommendations.png)
+
+
 ## Presentations and projects
 * [Project write-up](https://github.com/isabellaoakes/In-Vehicle-Marketing-Engagement-Optimization/blob/main/InVehicleCouponOptimization.pdf)
 * [Python Pre-Processing File](https://github.com/isabellaoakes/In-Vehicle-Marketing-Engagement-Optimization/blob/main/InVehicleCouponOptimization.pdf)
