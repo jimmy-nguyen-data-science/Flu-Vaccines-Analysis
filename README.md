@@ -3,7 +3,7 @@
 ## Completed: 20 February 2021 
 
 ## Project Objective
-A data analysisreport for the flu shot learning competition hosted by Driven Data to achieve understanding in the following areas:
+A data analysis report for the flu shot learning competition hosted by Driven Data to achieve understanding in the following areas:
 
 - Business Objectives and Success Criteria
 - Inventory of Resources
@@ -64,4 +64,4 @@ are “a key public health measure used to fight infectious diseases.”
 _DrivenData. (n.d.). Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines._
 
 ## Original Data 
-[DrivenData](https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/)
+[DrivenData Flu Shot Learning Competition](https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/)
