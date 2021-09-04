@@ -67,8 +67,8 @@ are “a key public health measure used to fight infectious diseases.”
 ![Vaccine Recommendations based on Gender](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/Vaccine%20Recommendations.png)
 
 
-## References
-_DrivenData. (n.d.). Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines._
-
 ## Original Data 
 [DrivenData Flu Shot Learning Competition](https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/)
+
+## References
+_DrivenData. (n.d.). Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines._
