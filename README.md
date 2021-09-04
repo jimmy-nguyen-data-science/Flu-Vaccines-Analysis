@@ -24,9 +24,10 @@ A data analysis report for the flu shot learning competition hosted by Driven Da
 - Propose data mining models
 
 ### Technologies
-* Python
-* Powerpoint
-* Word
+- Python
+- Tableau
+- Powerpoint
+- Word
 
 ## Project Description
 
@@ -52,16 +53,22 @@ This project aims to predict the probabilities whether patients are taking the H
 flu vaccines. The motivation is to push for vaccinations, as our customer explains that vaccines 
 are “a key public health measure used to fight infectious diseases.”
 
+
+## Presentations and Reports
+* [Final Report](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Report/Flu%20Vaccines%20Prediction%20-%20Data%20Analysis%20Report.pdf)
+* [Presentation Slides](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Presentation/Final%20Presentation%20-%20Jimmy%20Nguyen.pdf)
+
+
 ## Data Visualizations
-![image](https://user-images.githubusercontent.com/74040889/131297526-9f30ec80-d5e8-4799-bc44-feaad400a578.png)
+![Survey Responses](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/Beh.%20Questions.png)
 
-## Presentations and projects
-* [Project write-up](https://github.com/isabellaoakes/In-Vehicle-Marketing-Engagement-Optimization/blob/main/InVehicleCouponOptimization.pdf)
-* [Python Pre-Processing File](https://github.com/isabellaoakes/In-Vehicle-Marketing-Engagement-Optimization/blob/main/InVehicleCouponOptimization.pdf)
-* [Python Models File](https://github.com/isabellaoakes/In-Vehicle-Marketing-Engagement-Optimization/blob/main/InVehicleCouponModels.ipynb)
+![Vaccine Concerns about Effects](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/H1N1%20Con%20vs%20Vac.png)
 
-## References
-_DrivenData. (n.d.). Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines._
+![Vaccine Recommendations based on Gender](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/Vaccine%20Recommendations.png)
+
 
 ## Original Data 
 [DrivenData Flu Shot Learning Competition](https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/)
+
+## References
+_DrivenData. (n.d.). Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines._
