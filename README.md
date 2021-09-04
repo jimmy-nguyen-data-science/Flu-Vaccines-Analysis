@@ -24,9 +24,10 @@ A data analysis report for the flu shot learning competition hosted by Driven Da
 - Propose data mining models
 
 ### Technologies
-* Python
-* Powerpoint
-* Word
+- Python
+- Tableau
+- Powerpoint
+- Word
 
 ## Project Description
 
