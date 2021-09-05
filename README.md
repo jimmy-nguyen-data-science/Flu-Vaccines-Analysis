@@ -1,4 +1,4 @@
-# Flu-Vaccines-Prediction
+# Flu-Vaccines-Prediction Project
 
 ## Completed: 20 February 2021 
 
