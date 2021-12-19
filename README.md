@@ -2,6 +2,9 @@
 
 ## Completed: 20 February 2021 
 
+## Colloaborators
+- [Jimmy Nguyen](https://github.com/jimmy-nguyen-data-science)
+
 ## Project Objective
 A data analysis report for the flu shot learning competition hosted by Driven Data to achieve understanding in the following areas:
 
