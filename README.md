@@ -1,4 +1,4 @@
-# Flu Vaccines Prediction Project
+# Flu Vaccines Analysis Project
 
 ## Completed: 20 February 2021 
 
