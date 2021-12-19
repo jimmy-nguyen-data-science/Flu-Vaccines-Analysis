@@ -2,7 +2,7 @@
 
 ## Completed: 20 February 2021 
 
-## Colloaborators
+## Authors and Collaborators
 - [Jimmy Nguyen](https://github.com/jimmy-nguyen-data-science)
 
 ## Project Objective
