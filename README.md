@@ -58,16 +58,16 @@ are “a key public health measure used to fight infectious diseases.”
 
 
 ## Presentations and Reports
-* [Final Report](https://github.com/Jimmy-Nguyen-Data-Science/Flu-Vaccines-Prediction/blob/main/Report/Flu%20Vaccines%20Prediction%20-%20Data%20Analysis%20Report.pdf)
-* [Presentation Slides](https://github.com/Jimmy-Nguyen-Data-Science/Flu-Vaccines-Prediction/blob/main/Presentation/Final%20Presentation%20-%20Jimmy%20Nguyen.pdf)
+* [Final Report](https://github.com/jimmy-nguyen-data-science/Flu-Vaccines-Analysis/blob/main/Report/Flu%20Vaccines%20Prediction%20-%20Data%20Analysis%20Report.pdf)
+* [Presentation Slides](https://github.com/jimmy-nguyen-data-science/Flu-Vaccines-Analysis/blob/main/Presentation/Final%20Presentation%20-%20Jimmy%20Nguyen.pdf)
 
 
 ## Data Visualizations
-![Survey Responses](https://github.com/Jimmy-Nguyen-Data-Science/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/Beh.%20Questions.png)
+![Survey Responses](https://github.com/jimmy-nguyen-data-science/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/Beh.%20Questions.png)
 
-![Vaccine Concerns about Effects](https://github.com/Jimmy-Nguyen-Data-Science/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/H1N1%20Con%20vs%20Vac.png)
+![Vaccine Concerns about Effects](https://github.com/jimmy-nguyen-data-science/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/H1N1%20Con%20vs%20Vac.png)
 
-![Vaccine Recommendations based on Gender](https://github.com/Jimmy-Nguyen-Data-Science/Flu-Vaccines-Prediction/blob/main/Data%20Visuals/Vaccine%20Recommendations.png)
+![Vaccine Recommendations based on Gender](https://github.com/jimmy-nguyen-data-science/Flu-Vaccines-Analysis/blob/main/Data%20Visuals/Vaccine%20Recommendations.png)
 
 
 ## Original Data 
